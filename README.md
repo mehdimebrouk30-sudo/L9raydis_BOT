@@ -10,7 +10,7 @@
 
 <div align="center"> 
   <a href="https://github.com/darkxecutor"> 
-    <img src="https://i.postimg.cc/wT4rKVvt/Enhancer-20260607-014203001.png" alt="DarkXecutor" height="300"> 
+    <img src="" alt="DarkXecutor" height="300"> 
   </a> 
 </div>
 
