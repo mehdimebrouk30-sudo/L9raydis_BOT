@@ -28,14 +28,14 @@ global.APIKeys = {
 // ===================== إعدادات البوت =====================
 
 module.exports = {
-    WARN_COUNT: 3,                    // عدد التحذيرات قبل طرد العضو
+    WARN_COUNT: 2,                    // عدد التحذيرات قبل طرد العضو
     APIs: global.APIs,
     APIKeys: global.APIKeys,
     
     // إعدادات إضافية (يمكنك إضافتها حسب الحاجة)
     SESSION_NAME: 'session',          // اسم مجلد الجلسة
-    OWNER_NAME: 'DarkXecutor',        // اسم المطور
-    BOT_NAME: 'JAWAD.BOT',            // اسم البوت
+    OWNER_NAME: 'MEHDI',        // اسم المطور
+    BOT_NAME: 'L9ORAYDIS_BOT',            // اسم البوت
     
     // إعدادات القناة
     CHANNEL_JID: '120363427092431731@newsletter',
