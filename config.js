@@ -33,7 +33,8 @@ module.exports = {
     APIKeys: global.APIKeys,
     
     // إعدادات إضافية (يمكنك إضافتها حسب الحاجة)
-    SESSION_NAME: 'ex1hVQ00KLKaiBiV_country-in_city-mumbai_session-VCGBjKZg_lifetime-10m',          // اسم مجلد الجلسة
+    SESSION_NAME: 'BotSession', // اسم مجلد الجلسة
+    SESSION_ID: 'ex1hVQ00KLKaiBiV_country-in_city-mumbai_session-VCGBjKZg_lifetime-10m',
     OWNER_NAME: 'MEHDI',        // اسم المطور
     BOT_NAME: 'L9ORAYDIS_BOT',            // اسم البوت
     
