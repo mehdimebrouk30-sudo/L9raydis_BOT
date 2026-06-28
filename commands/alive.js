@@ -1,4 +1,4 @@
-const settings = require("../settings");
+const settings = require("../lib/settings");
 
 async function aliveCommand(sock, chatId, message) {
     try {
