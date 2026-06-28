@@ -9,7 +9,7 @@
  * - مكتبة Baileys بواسطة @adiwajshing
  * - كود الاقتران مستوحى من TechGod143 & DGXEON
  */
-require('./settings')
+require('./lib/settings')
 const { Boom } = require('@hapi/boom')
 const fs = require('fs')
 const chalk = require('chalk')
