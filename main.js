@@ -26,7 +26,7 @@ setInterval(() => {
 }, 3 * 60 * 60 * 1000);
 
 // ============= معلومات البوت =============
-global.botName = "JAWAD.BOT";
+global.botName = "L9ORAYDIS_BOT";
 global.developer = "DarkXecutor";
 global.channelLink = "https://whatsapp.com/channel/0029Vb7kJt29Gv7W5J0McQ09";
 global.supportGroup = "https://chat.whatsapp.com/LqoheqNRThHLBDbMCwvV7J?mode=gi_t";
