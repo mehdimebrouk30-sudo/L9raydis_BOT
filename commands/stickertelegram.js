@@ -7,7 +7,7 @@ const sharp = require('sharp');
 const webp = require('node-webpmux');
 const crypto = require('crypto');
 const { exec } = require('child_process');
-const settings = require('../settings');
+const settings = require('../lib/settings');
 
 const TEMP_DIR = path.join(process.cwd(), 'temp');
 if (!fs.existsSync(TEMP_DIR)) {
