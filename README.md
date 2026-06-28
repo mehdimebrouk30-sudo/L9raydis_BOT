@@ -167,7 +167,7 @@ node .
 
 # 🌚 رابط مستودع البوت
 
-## 🔥 𝗝𝗔𝗪𝗔𝗗.𝗕𝗢𝗧 🔥
+## 🔥 L9ORAYDIS BO𝗧 🔥
 
 🖇️ **https://github.com/darkxecutor/JAWAD_BOT.git**
 
@@ -201,7 +201,7 @@ node .
 
 <div align="center">
 
-## 🔥 𝗝𝗔𝗪𝗔𝗗.𝗕𝗢𝗧 🔥
+## 🔥L9ORAYDIS BOT🔥
 
 ### Made With ❤️ By DarkXecutor
 
