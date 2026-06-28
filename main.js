@@ -46,7 +46,7 @@ const contextInfoChannel = {
     }
 };
 
-const settings = require('./settings');
+const settings = require('./lib/settings');
 require('./config.js');
 const { isBanned } = require('./lib/isBanned');
 const yts = require('yt-search');
