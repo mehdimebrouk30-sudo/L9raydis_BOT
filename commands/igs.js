@@ -5,7 +5,7 @@ const fs = require('fs');
 const path = require('path');
 const webp = require('node-webpmux');
 const crypto = require('crypto');
-const settings = require('../settings');
+const settings = require('../lib/settings');
 const { stickercropFromBuffer } = require('./stickercrop');
 
 // المجلد المؤقت
