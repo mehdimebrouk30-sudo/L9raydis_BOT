@@ -391,7 +391,7 @@ async function handleMessages(sock, messageUpdate, printLog) {
                 }
                 await unbanCommand(sock, chatId, message);
                 break;
-            case userMessage === '.help' || userMessage === '.menu' || userMessage === '.bot' || userMessage === '.list':
+            case userMessage.startsWith('.menu') || userMessage.startsWith('.help') || userMessage.startsWith('.bot'):
                 await helpCommand(sock, chatId, message, global.channelLink);
                 commandExecuted = true;
                 break;
