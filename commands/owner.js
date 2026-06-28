@@ -1,5 +1,4 @@
-const settings = require('../settings');
-
+const settings = require('../lib/settings');
 async function ownerCommand(sock, chatId, message) {
     try {
         // إظهار تفاعل "جاري التحميل"
