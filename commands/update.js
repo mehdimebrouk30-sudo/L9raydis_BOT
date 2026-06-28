@@ -2,7 +2,7 @@ const { exec } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
-const settings = require('../settings');
+const settings = require('../lib/settings');
 const isOwnerOrSudo = require('../lib/isOwner');
 
 function run(cmd) {
